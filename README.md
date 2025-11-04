@@ -4,13 +4,13 @@
 To design and implement UML diagrams for an ATM & Banking System that models the functional requirements and workflow of the system.
 
 # SRS (Procedure):
-1.To design a model for the ATM & Banking System using UML diagrams.
+1.Identify the objectives and scope of the system.
 
-2.To understand the interaction between customer, ATM, and bank server.
+2.Collect and analyze user and system requirements.
 
-3.To identify system functionalities like withdrawal, deposit, and balance inquiry.
+3.Specify functional and non-functional requirements.
 
-4.To represent system behavior and structure through visual diagrams.
+4.Prepare, review, and finalize the SRS document
 
 # DIAGRAMS:
 ```python
