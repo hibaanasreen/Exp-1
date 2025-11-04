@@ -16,7 +16,8 @@ To design and implement UML diagrams for an ATM & Banking System that models the
 ```python
 Usecase diagram
 ```
-<img width="1159" height="874" alt="Screenshot 2025-11-04 101517" src="https://github.com/user-attachments/assets/1e545cf4-d554-4ef8-9edf-f80b37e17e81" />
+<img width="1222" height="888" alt="image" src="https://github.com/user-attachments/assets/6ab93557-cbab-4dab-afa2-e0a1412aba11" />
+
 
 ```python
 Class Diagram
